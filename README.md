@@ -39,3 +39,9 @@ App Store
 - [ ] Apple App Store
 - [ ] Google Play
 - [ ] Website Progressive Web App (PWA)
+
+Payment
+- [ ] Apple Pay
+- [ ] Google Pay
+- [ ] Samsung Pay
+- [ ] Bitcoin
