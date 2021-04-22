@@ -24,6 +24,7 @@ Maps
 Reservations & Bookings
 - [ ] OpenTable
 - [ ] Seated
+- [ ] Ticket Master
  
 Ordering & Delivery
 - [ ] Custom/Homebrew Ordering
