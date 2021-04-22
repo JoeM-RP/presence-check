@@ -25,6 +25,7 @@ Reservations & Bookings
 - [ ] OpenTable
 - [ ] Seated
 - [ ] Ticket Master
+- [ ] eventbrite
 - [ ] Tock
  
 Ordering & Delivery
