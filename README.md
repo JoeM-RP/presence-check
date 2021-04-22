@@ -25,6 +25,7 @@ Reservations & Bookings
 - [ ] OpenTable
 - [ ] Seated
 - [ ] Ticket Master
+- [ ] Tock
  
 Ordering & Delivery
 - [ ] Custom/Homebrew Ordering
