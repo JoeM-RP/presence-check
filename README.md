@@ -21,7 +21,8 @@ Maps
 - [ ] Apple Maps Location/Info
 - [ ] Bing Maps Locationn/Info
 
-Reservations & Bookings
+Reservations, Bookings, & Reviews
+- [ ] Yelp
 - [ ] OpenTable
 - [ ] Seated
 - [ ] Ticket Master
