@@ -38,6 +38,7 @@ Ordering & Delivery
 - [ ] Uber Eats
 - [ ] Ritual
 - [ ] PostMates
+- [ ] Caviar
 
 App Store
 - [ ] Apple App Store
