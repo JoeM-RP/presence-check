@@ -30,6 +30,7 @@ Reservations, Bookings, & Reviews
 - [ ] Tock
  
 Ordering & Delivery
+- [ ] Yelp Ordering
 - [ ] Custom/Homebrew Ordering
 - [ ] ToastTab
 - [ ] GrubHub
